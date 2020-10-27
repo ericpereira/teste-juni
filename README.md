@@ -1,0 +1,4 @@
+Para executar o código basta abrir uma página de produto do site animale.com.br, por exemplo <a href='https://www.animale.com.br/vestido-midi-com-babado-estampado-est--localizado-praia-g-07-04-0856-20396/p' target='_blank'>https://www.animale.com.br/vestido-midi-com-babado-estampado-est--localizado-praia-g-07-04-0856-20396/p</a><br>
+Abrir o console de desenvolvimento, no google chrome basta apertar a tecla F12 do teclado e clicar em console.<br>
+Colar o código contido no arquivo main.js<br>
+Após o código ser injetado na página, é preciso clicar em "ADICIONAR À SACOLA" no site original, para abrir o footer customizado do teste.
